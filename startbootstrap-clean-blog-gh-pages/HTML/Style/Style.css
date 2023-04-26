@@ -1,0 +1,30 @@
+p{
+
+    font-weight: bold;
+}
+#top{
+    color: rgb(40, 150, 150);
+    text-decoration: underline; 
+    text-decoration-color: rgb(0, 102, 102);
+    text-align: center;
+}
+.Important{
+    font-style: italic;
+    color: rgb(40, 150, 150);
+}
+body{
+    background-color: rgba(255, 228, 196, 0.445);
+    font-family: fantasy;
+    font-size:20px;
+    border: 10px solid black;
+    margin: 25px;
+    padding: 15px;
+    text-align: center;
+
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
